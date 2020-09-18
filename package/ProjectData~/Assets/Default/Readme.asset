@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 9b84c330de497af4793fd7b376afed13, type: 3}
+  title: Custom HD Template by leoalbalah
+  sections:
+  - heading: Overview
+    text: This Template uses the <b>High Definition Render Pipeline</b>. 
+    Making it a good starting point for <b>high-end graphics games</b> for platforms 
+    that support <b>Shader Model 5.0</b> (DX11 and above). 
+
+    linkText: 
+    url: 
+  - heading: 
+    text: Beyond being tuned for <b>High End visuals</b> this template has embeded support 
+    for many usefull <b>optimization and life quality packages</b>. It have pre created a 
+    powerfull and scalable <b>folder architecture</b> based on the unity oficial recomendations 
+    and the unreal engine naming convention. 
+
+    linkText: 
+    url: 
+  - heading: It also includes:
+    text: ▪ Shadergraph \n▪ Visual Effect Graph \n▪ Probuilder\n▪ Progrids\n▪ The New Unity Input System\n▪ Some default Presets
+  loadedLayout: 1

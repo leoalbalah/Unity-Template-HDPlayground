@@ -19,7 +19,6 @@ MonoBehaviour:
     text: This Template uses the <b>High Definition Render Pipeline</b>. 
     Making it a good starting point for <b>high-end graphics games</b> for platforms 
     that support <b>Shader Model 5.0</b> (DX11 and above). 
-
     linkText: 
     url: 
   - heading: 
@@ -27,9 +26,16 @@ MonoBehaviour:
     for many usefull <b>optimization and life quality packages</b>. It have pre created a 
     powerfull and scalable <b>folder architecture</b> based on the unity oficial recomendations 
     and the unreal engine naming convention. 
-
     linkText: 
     url: 
-  - heading: It also includes:
-    text: ▪ Shadergraph \n▪ Visual Effect Graph \n▪ Probuilder\n▪ Progrids\n▪ The New Unity Input System\n▪ Some default Presets
+  - heading: It also includes::
+    text: - Shadergraph
+  - heading:
+    text: - Visual Effect Graph 
+  - heading:
+    text: - Probuilder 
+  - heading:
+    text: - Progrids
+  - heading:
+    text: - Prototyping Assets
   loadedLayout: 1

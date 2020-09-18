@@ -5,7 +5,7 @@
   "type": "template",
   "host": "hub",
   "unity": "2020.1",
-  "description": "Custom HD Template\n Utilizes the High Definition Render Pipeline. Making it a good starting point for high-end graphics games for platforms that support Shader Model 5.0 (DX11 and above). \n\nBeyond being tuned for High End visuals this template has embeded support for many usefull optimization and life quality packages. It have pre created an powerfull and scalable folder architecture based on the unity oficial recomendations and the unreal engine naming convention. It also includes\n▪ Shadergraph \n▪ Visual Effect Graph \n▪ Probuilder \n▪ Progrids \n▪ The New Unity Input System \n▪ Some default Presets ",
+  "description": "Custom HD Template\n Utilizes the High Definition Render Pipeline. Making it a good starting point for high-end graphics games for platforms that support Shader Model 5.0 (DX11 and above). \nBeyond being tuned for High End visuals this template has embeded support for many usefull optimization and life quality packages. It have pre created an powerfull and scalable folder architecture based on the unity oficial recomendations and the unreal engine naming convention. \nIt also includes:\n\n▪ Shadergraph \n▪ Visual Effect Graph \n▪ Probuilder \n▪ Progrids \n▪ The New Unity Input System \n▪ Some default Presets ",
   "dependencies": {
     "com.unity.render-pipelines.high-definition": "8.2.0",
     "com.unity.ide.vscode": "1.2.2",

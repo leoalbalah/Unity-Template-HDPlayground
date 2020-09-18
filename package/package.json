@@ -9,7 +9,6 @@
   "dependencies": {
     "com.unity.render-pipelines.high-definition": "8.2.0",
     "com.unity.ide.vscode": "1.2.2",
-    "com.unity.inputsystem": "1.0.0",
     "com.unity.probuilder": "4.2.3",
     "com.unity.progrids": "3.0.3-preview.6"
   }
